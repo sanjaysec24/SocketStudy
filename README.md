@@ -1,5 +1,10 @@
-# Ex.No:1a  			Study of Socket Programming
-
+# Ex.No:1a  	
+Study of Socket Programming
+```
+NAME: sanjay kumar
+DEPT: AI DS
+REG NO: 212224230242
+```
 ## Aim: 
 To perform a study on Socket Programming
 ## Introduction:
